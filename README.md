@@ -1,4 +1,4 @@
-# ps-vita-re-ps-store
+# PS Vita RePSStore
 Enable Playstation Store access on Testkit or CEX2REX devices without any modification on system partitions like vs0 etc...  
   
 HOW TO USE:  
